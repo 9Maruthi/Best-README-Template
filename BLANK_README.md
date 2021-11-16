@@ -7,6 +7,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+change 1
 
 
 <!-- PROJECT SHIELDS -->
@@ -24,6 +25,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+change 2
 
 
 <!-- PROJECT LOGO -->
