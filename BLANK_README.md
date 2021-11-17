@@ -7,7 +7,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-change 11
+change 11.1
 
 
 <!-- PROJECT SHIELDS -->
@@ -51,7 +51,7 @@ change 22
   </p>
 </div>
 
-change 33
+change 33.3
 
 <!-- TABLE OF CONTENTS -->
 <details>
