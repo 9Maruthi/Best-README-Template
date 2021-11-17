@@ -24,7 +24,7 @@ change 1.1
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-change 2
+change 2.2
 
 <!-- PROJECT LOGO -->
 <br />
@@ -49,7 +49,7 @@ change 2
   </p>
 </div>
 
-change 3
+change 3.3
 
 <!-- TABLE OF CONTENTS -->
 <details>
