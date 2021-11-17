@@ -7,7 +7,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-change 11.1
+feature 1
 
 
 <!-- PROJECT SHIELDS -->
@@ -25,7 +25,7 @@ change 11.1
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-change 22.2
+feature 2
 
 
 <!-- PROJECT LOGO -->
@@ -51,7 +51,7 @@ change 22.2
   </p>
 </div>
 
-change 33.3
+feature 3
 
 <!-- TABLE OF CONTENTS -->
 <details>
